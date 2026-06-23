@@ -1,0 +1,152 @@
+[
+    {
+        "disease": "1.Bệnh Đạo ôn (Tác nhân: Nấm Pyricularia oryzae)",
+        "section": "Cơ chế và Dấu hiệu",
+        "content": "Nấm tấn công bằng cách xuyên thủng biểu bì lá và tiết độc tố Pyricularin giết chết tế bào. Vết bệnh điển hình hình thoi (mắt én), tâm xám, rìa nâu đỏ; nếu bị ở cổ bông sẽ làm thối mạch dẫn, gây bạc bông và lép hoàn toàn."
+    },
+    {
+        "disease": "1.Bệnh Đạo ôn (Tác nhân: Nấm Pyricularia oryzae)",
+        "section": "Nguyên nhân",
+        "content": "khi nhiệt độ từ 20–28°C, độ ẩm >90%, có sương mù kéo dài hoặc mưa phùn. Đặc biệt nguy hại trên các ruộng bón thừa phân đạm làm lá lúa mềm mỏng, tạo điều kiện cho bào tử nấm xâm nhiễm dễ dàng."
+    },
+    {
+        "disease": "1.Bệnh Đạo ôn (Tác nhân: Nấm Pyricularia oryzae)",
+        "section": "Cách điều trị",
+        "content": "Ngưng bón đạm; sử dụng thuốc lưu dẫn chứa hoạt chất Tricyclazole (Beam 75WP) hoặc Fenoxanil (Filia 525SE). Cần phun ngừa đạo ôn cổ bông vào hai thời điểm: lúa bắt đầu trổ (5%) và khi đã trổ đều để bảo vệ năng suất."
+    },
+    {
+        "disease": "2.Bệnh Khô vằn (Tác nhân: Nấm Rhizoctonia solani)",
+        "section": "Cơ chế và Dấu hiệu",
+        "content": "Nấm hình thành hạch nấm tồn tại trong đất và nước, sau đó nảy mầm và bò lan trên bề mặt cây lúa. Vết bệnh có dạng vằn vện như \"da hổ\", loang lổ màu xanh xám, xuất hiện đầu tiên ở bẹ lá sát mặt nước rồi lan dần lên các tầng lá trên và bông lúa."
+    },
+    {
+        "disease": "2.Bệnh Khô vằn (Tác nhân: Nấm Rhizoctonia solani)",
+        "section": "Điều kiện phát sinh",
+        "content": "Ưa thích thời tiết nóng ẩm (28–32°C), độ ẩm trong tán lúa cao do gieo sạ quá dày hoặc bón thừa đạm làm tán lá khép kín, thiếu ánh sáng ở phần gốc."
+    },
+    {
+        "disease": "2.Bệnh Khô vằn (Tác nhân: Nấm Rhizoctonia solani)",
+        "section": "Phác đồ điều trị",
+        "content": "Cần sạ thưa và vệ sinh đồng ruộng kỹ để thông thoáng; khi phun thuốc phải tập trung vào phần thân dưới của bụi lúa. Hoạt chất đặc trị gồm Validamycin (Validacin) hoặc Hexaconazole (Anvil 5SC) để ức chế sự phát triển của sợi nấm."
+    },
+    {
+        "disease": "3.Bệnh Bạc lá (Tác nhân: Vi khuẩn Xanthomonas oryzae)",
+        "section": "Cơ chế và Dấu hiệu",
+        "content": "Vi khuẩn xâm nhập qua lỗ khí khổng hoặc vết trầy xước do gió bão, sau đó nhân mật số trong mạch dẫn gây tắc nghẽn dòng dinh dưỡng. Vết bệnh cháy dọc mép lá theo hình gợn sóng màu vàng xám; buổi sáng sớm thường thấy dịch vi khuẩn màu vàng li ti đọng trên vết bệnh."
+    },
+    {
+        "disease": "3.Bệnh Bạc lá (Tác nhân: Vi khuẩn Xanthomonas oryzae)",
+        "section": "Điều kiện phát sinh",
+        "content": "Thường bùng phát sau các đợt mưa giông, gió bão lớn (tháng 7-9). Bệnh trầm trọng hơn trên các chân ruộng bón nhiều đạm và thiếu Kali, làm giảm khả năng quang hợp nuôi hạt."
+    },
+    {
+        "disease": "3.Bệnh Bạc lá (Tác nhân: Vi khuẩn Xanthomonas oryzae)",
+        "section": "Phác đồ điều trị",
+        "content": "Bổ sung Kali để làm dày vách tế bào và tuyệt đối không phun phân bón lá có đạm khi đang bệnh. Sử dụng các dòng diệt khuẩn mạnh như Kasugamycin (Kasumin), Oxolinic acid (Starner) hoặc Bronopol (Totan)."
+    },
+    {
+        "disease": "4.Bệnh Lép vàng (Tác nhân: Vi khuẩn Burkholderia glumae)",
+        "section": "Cơ chế và Dấu hiệu",
+        "content": "Vi khuẩn tấn công trực tiếp vào hoa lúa khi đang phơi màu, gây thối bao phấn và phôi lúa. Hạt lúa bị lép hoàn toàn dù vỏ trấu vẫn giữ màu vàng sáng hoặc xám nhạt, đuôi hạt thường có vết nâu đen li ti."
+    },
+    {
+        "disease": "4.Bệnh Lép vàng (Tác nhân: Vi khuẩn Burkholderia glumae)",
+        "section": "Điều kiện phát sinh",
+        "content": "Phát triển mạnh khi lúa trổ gặp mưa đêm liên tục, sương muối hoặc độ ẩm không khí quá cao (trên 95%) khiến vi khuẩn phát tán nhanh trong hạt."
+    },
+    {
+        "disease": "4.Bệnh Lép vàng (Tác nhân: Vi khuẩn Burkholderia glumae)",
+        "section": "Phác đồ điều trị",
+        "content": "Đây là bệnh \"phòng hơn trị\" vì khi thấy triệu chứng thì hạt lúa đã hỏng. Cần phun phòng bằng hoạt chất Oxolinic acid kết hợp với thuốc trị nấm vào giai đoạn lúa trổ xẹt và trổ đều để bảo vệ hạt lúa tuyệt đối."
+    },
+    {
+        "disease": "Bệnh Vàng lùn & Lùn xoắn lá (Tác nhân: Virus truyền qua Rầy nâu)",
+        "section": "Cơ chế và Dấu hiệu",
+        "content": "Virus xâm nhập vào cây lúa thông qua vết chích hút của Rầy nâu. Cây bị bệnh sẽ lùn tịt, lá màu vàng cam rực và xoắn tít ở phần ngọn; bụi lúa đẻ nhiều chồi nhưng không thể trổ bông, gây thiệt hại gần như 100% nếu nhiễm sớm."
+    },
+    {
+        "disease": "Bệnh Vàng lùn & Lùn xoắn lá (Tác nhân: Virus truyền qua Rầy nâu)",
+        "section": "Điều kiện phát sinh",
+        "content": "Phụ thuộc hoàn toàn vào mật độ Rầy nâu trên đồng ruộng. Khi dịch rầy bùng phát, nguy cơ lây lan virus giữa các vùng canh tác là rất cao."
+    },
+    {
+        "disease": "Bệnh Vàng lùn & Lùn xoắn lá (Tác nhân: Virus truyền qua Rầy nâu)",
+        "section": "Phác đồ điều trị",
+        "content": "Hiện không có thuốc hóa học trị virus; biện pháp duy nhất là quản lý Rầy nâu bằng hoạt chất Pymetrozine (Chess) để cắt đứt nguồn truyền bệnh. Nếu phát hiện cây bệnh, phải nhổ bỏ và tiêu hủy ngay để tránh lây lan."
+    },
+    {
+        "disease": "5.Bệnh Vàng lá chín sớm (Tác nhân: Nấm Gonatobotrys sp.)",
+        "section": "Cơ chế và Dấu hiệu",
+        "content": "Vết bệnh là những vạch màu vàng cam xuất hiện trên phiến lá, bắt đầu từ giai đoạn 70 ngày sau sạ (làm đòng - trổ). Bệnh làm lá bị khô cháy sớm từ chóp xuống, khiến hạt lúa bị chín ép, không đạt trọng lượng tối đa."
+    },
+    {
+        "disease": "5.Bệnh Vàng lá chín sớm (Tác nhân: Nấm Gonatobotrys sp.)",
+        "section": "Điều kiện phát sinh",
+        "content": "Ưa thích môi trường ẩm ướt, ruộng lúa thâm canh cao, bón nhiều đạm muộn và tán lá quá dày khiến nấm dễ dàng phát tán từ các lá già lên lá đòng."
+    },
+    {
+        "disease": "5.Bệnh Vàng lá chín sớm (Tác nhân: Nấm Gonatobotrys sp.)",
+        "section": "Phác đồ điều trị",
+        "content": "Sử dụng các nhóm thuốc Triazole như Propiconazole + Difenoconazole (Tilt Super) hoặc Amistar Top. Việc phun ở giai đoạn ngậm sữa giúp giữ xanh bộ lá đòng, hạt lúa chắc và vàng sáng hơn."
+    },
+    {
+        "disease": "Bệnh Thối thân (Tác nhân: Nấm Sclerotium oryzae)",
+        "section": "Cơ chế và Dấu hiệu",
+        "content": "Nấm xâm nhập vào phần thân lúa sát mặt nước, tạo ra các vết đen mục nát làm đứt gãy mạch dẫn. Bên trong thân lúa bị thối thường xuất hiện các hạch nấm nhỏ li ti như hạt cát đen; cây lúa bị bệnh sẽ héo rũ, dễ đổ ngã và hạt bị lửng lép do dinh dưỡng không truyền lên được."
+    },
+    {
+        "disease": "Bệnh Thối thân (Tác nhân: Nấm Sclerotium oryzae)",
+        "section": "Điều kiện phát sinh",
+        "content": "Thường xảy ra ở những ruộng lúa ngập nước liên tục, đất bị yếm khí hoặc bón quá nhiều phân đạm. Bệnh bùng phát mạnh từ giai đoạn làm đòng đến khi chín, đặc biệt trên các giống lúa có thân mềm."
+    },
+    {
+        "disease": "Bệnh Thối thân (Tác nhân: Nấm Sclerotium oryzae)",
+        "section": "Phác đồ điều trị",
+        "content": "Biện pháp quan trọng nhất là rút cạn nước ruộng để oxy vào đất, ức chế nấm yếm khí. Sử dụng thuốc có hoạt chất Tebuconazole (Nevo) hoặc Hexaconazole (Anvil) phun tập trung vào gốc lúa để diệt sợi nấm."
+    },
+    {
+        "disease": "6.Bệnh Tiêm hợp - Tuyến trùng đầu trắng (Tác nhân: Tuyến trùng Aphelenchoides besseyi)",
+        "section": "Cơ chế và Dấu hiệu",
+        "content": "Tuyến trùng xâm nhập vào hạt giống hoặc qua nước vào bẹ lá, sau đó chích hút nhựa ở phần lá non đang phát triển. Dấu hiệu đặc trưng là phần đầu lá lúa bị trắng bạc khoảng 1–2cm, bị xoắn lại như \"đuôi chuột\", bông lúa khi trổ ra thường bị ngắn, hạt lúa bị biến dạng hoặc lép đen."
+    },
+    {
+        "disease": "6.Bệnh Tiêm hợp - Tuyến trùng đầu trắng (Tác nhân: Tuyến trùng Aphelenchoides besseyi)",
+        "section": "Điều kiện phát sinh",
+        "content": "Lây lan chủ yếu qua nguồn hạt giống đã nhiễm bệnh từ vụ trước hoặc qua nguồn nước tưới. Bệnh phát triển mạnh trong điều kiện độ ẩm cao và nhiệt độ ấm áp."
+    },
+    {
+        "disease": "6.Bệnh Tiêm hợp - Tuyến trùng đầu trắng (Tác nhân: Tuyến trùng Aphelenchoides besseyi)",
+        "section": "Phác đồ điều trị",
+        "content": "Vì tuyến trùng nằm sâu trong bẹ lá nên cần dùng thuốc có tính nội hấp và xông hơi mạnh như hoạt chất Carbosulfan (Marshal) hoặc thuốc chuyên dụng Tervigo. Cách phòng tốt nhất là xử lý hạt giống bằng nước ấm (3 sôi 2 lạnh) trước khi gieo."
+    },
+    {
+        "disease": "7.Bệnh Lúa cỏ / Lúa ma (Tác nhân: Hạt giống lẫn tạp và tồn dư đất)",
+        "section": "Cơ chế và Dấu hiệu",
+        "content": "Đây không phải bệnh do vi sinh vật nhưng là một \"dịch hại\" nguy hiểm. Lúa cỏ có đặc điểm sinh trưởng rất nhanh, thường cao vượt hơn lúa trồng, lá hẹp và màu xanh sáng. Đặc điểm nhận dạng rõ nhất là hạt lúa có đuôi dài, chín rất nhanh và tự rụng xuống đất ngay khi vừa chín, khiến ruộng lúa bị thất thoát năng suất nghiêm trọng."
+    },
+    {
+        "disease": "7.Bệnh Lúa cỏ / Lúa ma (Tác nhân: Hạt giống lẫn tạp và tồn dư đất)",
+        "section": "Điều kiện phát sinh",
+        "content": "Do sử dụng giống lúa không đạt chuẩn (giống tự để) hoặc do hạt lúa cỏ từ vụ trước tồn dư trong đất. Chúng có sức sống cực cao, có thể nằm dưới bùn nhiều vụ vẫn nảy mầm được."
+    },
+    {
+        "disease": "7.Bệnh Lúa cỏ / Lúa ma (Tác nhân: Hạt giống lẫn tạp và tồn dư đất)",
+        "section": "Phác đồ điều trị",
+        "content": "Không có thuốc hóa học diệt lúa cỏ mà không chết lúa thường. Phải xử lý bằng cách cày ải, dùng thuốc diệt cỏ tiền nảy mầm (Sofit) ngay sau khi sạ. Cách hiệu quả nhất là nhổ bỏ thủ công khi lúa cỏ vừa cao hơn lúa thường để tránh chúng rụng hạt xuống đất."
+    },
+    {
+        "disease": "8.Ngộ độc hữu cơ / Vàng lá sinh lý (Tác nhân: Đất yếm khí và nấm đối kháng yếu)",
+        "section": "Cơ chế và Dấu hiệu",
+        "content": "Do rơm rạ vụ trước chưa kịp phân hủy đã vội vã xuống giống vụ mới, quá trình phân hủy rơm rạ trong điều kiện ngập nước sinh ra các khí độc (H2S, CH4). Lá lúa bị vàng đỏ từ chóp lan vào, rễ lúa bị đen, có mùi hôi thối và không ra được rễ trắng mới, khiến cây lúa còi cọc không phát triển."
+    },
+    {
+        "disease": "8.Ngộ độc hữu cơ / Vàng lá sinh lý (Tác nhân: Đất yếm khí và nấm đối kháng yếu)",
+        "section": "Điều kiện phát sinh",
+        "content": "Thường gặp ở các vùng làm lúa 3 vụ/năm, thời gian nghỉ giữa 2 vụ quá ngắn (dưới 20 ngày), đất bị ngập nước liên tục không được phơi ải."
+    },
+    {
+        "disease": "8.Ngộ độc hữu cơ / Vàng lá sinh lý (Tác nhân: Đất yếm khí và nấm đối kháng yếu)",
+        "section": "Phác đồ điều trị",
+        "content": "Ngưng bón phân đạm và DAP ngay lập tức. Cần rút nước để phơi ruộng (nứt chân chim), bón vôi và phân Lân để khử độc đất. Sử dụng các chế phẩm nấm đối kháng như Trichoderma hoặc phân bón lá giàu Humic để kích thích bộ rễ mới phát triển."
+    }
+]

@@ -1,0 +1,82 @@
+[
+    {
+        "query": "Cách điều trị bệnh Đạo ôn",
+        "expected": "Đạo ôn"
+    },
+    {
+        "query": "Thuốc Tricyclazole dùng để chữa bệnh gì",
+        "expected": "Đạo ôn"
+    },
+    {
+        "query": "Dấu hiệu của bệnh Đạo ôn",
+        "expected": "Đạo ôn"
+    },
+    {
+        "query": "Nguyên nhân gây bệnh Khô vằn",
+        "expected": "Khô vằn"
+    },
+    {
+        "query": "Bệnh Khô vằn phát triển trong điều kiện nào",
+        "expected": "Khô vằn"
+    },
+    {
+        "query": "Cách điều trị bệnh Khô vằn",
+        "expected": "Khô vằn"
+    },
+    {
+        "query": "Bệnh nào do vi khuẩn Xanthomonas oryzae gây ra",
+        "expected": "Bạc lá"
+    },
+    {
+        "query": "Dấu hiệu nhận biết bệnh Bạc lá",
+        "expected": "Bạc lá"
+    },
+    {
+        "query": "Cách xử lý bệnh Lép vàng",
+        "expected": "Lép vàng"
+    },
+    {
+        "query": "Điều kiện phát sinh bệnh Lép vàng",
+        "expected": "Lép vàng"
+    },
+    {
+        "query": "Bệnh nào do rầy nâu truyền",
+        "expected": "Vàng lùn"
+    },
+    {
+        "query": "Cách điều trị bệnh Vàng lùn",
+        "expected": "Vàng lùn"
+    },
+    {
+        "query": "Bệnh làm thân lúa bị thối đen là gì",
+        "expected": "Thối thân"
+    },
+    {
+        "query": "Thuốc Tebuconazole dùng để trị bệnh gì",
+        "expected": "Thối thân"
+    },
+    {
+        "query": "Cách điều trị bệnh Tuyến trùng đầu trắng",
+        "expected": "Tuyến trùng"
+    },
+    {
+        "query": "Thuốc Tervigo được sử dụng cho bệnh nào",
+        "expected": "Tuyến trùng"
+    },
+    {
+        "query": "Lúa cỏ có đặc điểm gì",
+        "expected": "Lúa cỏ"
+    },
+    {
+        "query": "Cách xử lý lúa cỏ",
+        "expected": "Lúa cỏ"
+    },
+    {
+        "query": "Lúa bị vàng lá do đất yếm khí",
+        "expected": "Ngộ độc hữu cơ"
+    },
+    {
+        "query": "Cách xử lý ngộ độc hữu cơ trên lúa",
+        "expected": "Ngộ độc hữu cơ"
+    }
+]
